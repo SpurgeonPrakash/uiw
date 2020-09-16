@@ -65,7 +65,7 @@
     "compile-less-cli": "1.4.0",
     "husky": "4.2.5",
     "lint-staged": "10.2.11",
-    "prettier": "2.0.5",
+    "prettier": "2.1.2",
     "kkt": "5.9.0",
     "lerna": "3.22.1",
     "tsbb": "1.7.6"

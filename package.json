@@ -64,7 +64,7 @@
   "devDependencies": {
     "compile-less-cli": "1.4.0",
     "husky": "4.2.5",
-    "lint-staged": "10.2.11",
+    "lint-staged": "10.4.0",
     "prettier": "2.0.5",
     "kkt": "5.9.0",
     "lerna": "3.22.1",
